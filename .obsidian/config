@@ -1,0 +1,45 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "2d1aa2e94eb31a6f",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "a32d7d96268f6d24",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "初级上/动词.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "初级上/动词.md",
+    "初级上/9课.md",
+    "初级上/5课.md",
+    "初级上/17课.md",
+    "初级上/15课.md"
+  ]
+}
